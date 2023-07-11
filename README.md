@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rrazerr
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Cloud technology
+- 👋 Hi, I’m Techie NickName is @rrazerr
+- 👀 I’m interested in various Technologies related to software development.
+- 🌱 I’m currently Working Full-time with Energy company. So not so much active contributing in open source and personal projects.
+- 💚 I push Whole code, So you will see less greenry in my process bar.
 - 📫 How to reach me :- vishuyd007@gmail.com
 
 <!---
