@@ -1,0 +1,13 @@
+
+@keyframes spin {
+    from { rotate: 0deg;}
+    to { rotate: 360deg;}
+}
+.loader1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 15px solid #dae1e7;
+    border-top: 19px solid #a6e4e7;
+    animation : spin 2s steps(40) 0s infinite ;
+}
